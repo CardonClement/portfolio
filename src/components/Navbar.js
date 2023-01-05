@@ -17,6 +17,12 @@ export default function Navbar() {
           <a href="#TechnologiesEtOutils" className="mr-5 hover:text-white">
             Technologies et outils
           </a>
+          <a href="./ALT_BUT2_Cardon_Clement.pdf" target="_blank" className="mr-5 hover:text-white">
+          CV
+          </a>
+          <a href="./CV_CARDON_Clement_Developer_ENGLISH.pdf" target="_blank" className="mr-5 hover:text-white">
+          CV (English)
+          </a>
         </nav>
         <a
           href="#contact"
