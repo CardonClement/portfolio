@@ -25,6 +25,7 @@ export const skills = [
   "Laravel",
   "Python",
   "Java (Hibernate, Swing, JavaFX...)",
+  "Kotlin (Android Studio)",
   "Bash",
   "Powershell",
   "SQL, PL/pgSQL",
