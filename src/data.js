@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "Situations d'Apprentissage Evaluées",
-    subtitle: "Python, Java, SQL (Postgres), Bash, HTML/CSS, PHP (Laravel)",
+    subtitle: "Python, Java, SQL (Postgres), Bash, HTML/CSS, PHP (Laravel), JavaScript (Angular)",
     description:
     "Les Situations d'Aprentissage Evaluées (ou 'SAEs') sont des simulations de projets d'entreprise. Ces dernières m'ont appris de nombreuses compétences : Projet Java de grande envergure, algorithmes de tris en pyton, création/exploitation d'une base de donnée PostgreSQL, Projet Laravel de grande envergure, configuration de postes de travails et tables de routages...",
     image: "./SAE.png",
@@ -19,6 +19,7 @@ export const projects = [
 export const skills = [
   "JavaScript",
   "React",
+  "Angular",
   "Node",
   "NestJS",
   "PHP",
