@@ -18,6 +18,8 @@ export default function APropos() {
             dont les sites ou applications fonctionnent, les méchanismes se cachant derrière ce qu'un utilisateur classique
             utilise tous les jours... Tout cela m'a, étant naturellement curieux et toujours envieux
             d'apprendre, fortement intéressé. C'est donc dans ce domaine que je souhaite m'orienter. 
+            <br></br> Je suis actuellement en contrat d'alternance pour une durée de 19 mois (02/23 -> 08/24) avec la société Lenrek Informatique en 
+            développement Java/SQL.
           </p>
           <div className="flex justify-center">
             <a
