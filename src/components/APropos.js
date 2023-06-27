@@ -7,15 +7,15 @@ export default function APropos() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Bonjour, moi c'est Clément.
-            <br className="hidden lg:inline-block" /> Je suis en formation pour devenir developpeur web.
+            <br className="hidden lg:inline-block" /> Je suis en formation pour devenir developpeur.
           </h1>
           <p className="mb-8 leading-relaxed">
             J'ai toujours été passionné par le developpement. Issu d'un BAC Sciences et Technologies
             de l'Industrie et du Developpement Durable spécialité Systèmes d'Informations et Numériques et 
             désormais en Bachelor Universitaire de Technologie spécialité Informatique, j'ai la conviction de pouvoir
             répondre à vos attentes. 
-            Lors de mon cursus en BUT, j'ai découvert ma passion pour le developpement web. La manière
-            dont les sites fonctionnent, les méchanismes se cachant derrière ce qu'un utilisateur classique
+            Lors de mon cursus en BUT, j'ai découvert ma passion pour le developpement. La manière
+            dont les sites ou applications fonctionnent, les méchanismes se cachant derrière ce qu'un utilisateur classique
             utilise tous les jours... Tout cela m'a, étant naturellement curieux et toujours envieux
             d'apprendre, fortement intéressé. C'est donc dans ce domaine que je souhaite m'orienter. 
           </p>

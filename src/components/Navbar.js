@@ -23,6 +23,9 @@ export default function Navbar() {
           <a href="./CV_CARDON_Clement_Developer_ENGLISH.pdf" target="_blank" className="mr-5 hover:text-white">
           CV (English)
           </a>
+          <a href="./Portfolio_Clement_CARDON.pdf" target="_blank" className="mr-5 hover:text-white">
+          Compétences (BUT)
+          </a>
         </nav>
         <a
           href="#contact"
