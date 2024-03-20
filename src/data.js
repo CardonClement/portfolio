@@ -9,23 +9,25 @@ export const projects = [
   },
   {
     title: "Situations d'Apprentissage Evaluées",
-    subtitle: "Python, Java, SQL (Postgres), Bash, HTML/CSS, PHP (Laravel), JavaScript (Angular)",
+    subtitle: "Python, Java, SQL (Postgres), Bash, HTML/CSS, PHP (Laravel), JavaScript et TypeScript (Angular, React.js)",
     description:
-    "Les Situations d'Aprentissage Evaluées (ou 'SAEs') sont des simulations de projets d'entreprise. Ces dernières m'ont appris de nombreuses compétences : Projet Java de grande envergure, algorithmes de tris en pyton, création/exploitation d'une base de donnée PostgreSQL, Projet Laravel de grande envergure, configuration de postes de travails et tables de routages...",
+    "Les Situations d'Aprentissage Evaluées (ou 'SAEs') sont des simulations de projets d'entreprise. Ces dernières m'ont appris de nombreuses compétences : Projet Java de grande envergure, algorithmes de tris en pyton, création/exploitation d'une base de donnée PostgreSQL, Projet Laravel <<fullstack>>, Développement d'un site web (frontend) Angular et association avec une API en Php (Laravel), Projet de site web <<fullstack>> associant React.js (frontend), Springboot (backend) et une API Flask, configuration de postes de travails et tables de routages...",
     image: "./SAE.png",
     },
 ];
 
 export const skills = [
   "JavaScript",
-  "React",
+  "TypeScript",
+  "React.js",
+  "NextJS",
   "Angular",
   "Node",
   "NestJS",
   "PHP",
   "Laravel",
   "Python",
-  "Java (Hibernate, Swing, JavaFX...)",
+  "Java (Hibernate, Swing, Vaadin, JavaFX...)",
   "Kotlin (Android Studio)",
   "Bash",
   "Powershell",
@@ -35,5 +37,6 @@ export const skills = [
   "Git, GitLab, GitHub",
   "Trello",
   "OBS",
-  "Photoshop"
+  "Photoshop", 
+  "Wildfly/JBoss"
 ];
