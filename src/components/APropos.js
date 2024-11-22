@@ -7,7 +7,7 @@ export default function APropos() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Bonjour, moi c'est Clément.
-            <br className="hidden lg:inline-block" /> J'ai pour projet de devenir Ingénieur.
+            <br className="hidden lg:inline-block" /> Je suis en formation pour devenir developpeur.
           </h1>
           <p className="mb-8 leading-relaxed">
             J'ai toujours été passionné par le developpement. Issu d'un BAC Sciences et Technologies
@@ -18,13 +18,8 @@ export default function APropos() {
             dont les sites ou applications fonctionnent, les méchanismes se cachant derrière ce qu'un utilisateur classique
             utilise tous les jours... Tout cela m'a, étant naturellement curieux et toujours envieux
             d'apprendre, fortement intéressé. C'est donc dans ce domaine que je souhaite m'orienter. 
-            <br /> Afin d'améliorer davantage mes compétences et de devenir plus efficace dans ma manière d'aborder mon travail, j'ai pour projet suivre une formation 
-            afin de devenir Ingénieur. 
-            Mais, le développement seul n'est à mon sens pas assez. Je veux pouvoir suivre l'intégralité d'un projet d'un point de vue plus global, être plus investi dans l'analyse 
-            de ses besoins et dans la conception systématique de ce dernier ainsi que dans sa planification... Je souhaite un environnement dans lequel je peux me surpasser
-            en permanence, dans lequel je suis amené à réfléchir régulièrement et à optimiser mon approche.
-            <br /> Je suis actuellement en contrat d'alternance pour une durée de 19 mois (02/23 -> 08/24) avec la société Lenrek Informatique en 
-            développement Java/SQL.
+            <br></br> Venant de conclure un contrat d'alternance pour une durée de 19 mois (02/23 -> 08/24) avec la société Lenrek Informatique en 
+            développement Java/SQL, je suis actuellement en licence informatique (3e année) à la Faculté des Sciences Jean Perrin.
           </p>
           <div className="flex justify-center">
             <a
