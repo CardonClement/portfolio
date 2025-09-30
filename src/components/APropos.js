@@ -9,17 +9,16 @@ export default function APropos() {
             Bonjour, moi c'est Clément.
             <br className="hidden lg:inline-block" /> Je suis en formation pour devenir developpeur.
           </h1>
-          <p className="mb-8 leading-relaxed">
+          <p className="mb-8 leading-relaxed text-justify">
             J'ai toujours été passionné par le developpement. Issu d'un BAC Sciences et Technologies
-            de l'Industrie et du Developpement Durable spécialité Systèmes d'Informations et Numériques et 
-            désormais en Bachelor Universitaire de Technologie spécialité Informatique, j'ai la conviction de pouvoir
-            répondre à vos attentes. 
-            Lors de mon cursus en BUT, j'ai découvert ma passion pour le developpement. La manière
-            dont les sites ou applications fonctionnent, les méchanismes se cachant derrière ce qu'un utilisateur classique
-            utilise tous les jours... Tout cela m'a, étant naturellement curieux et toujours envieux
-            d'apprendre, fortement intéressé. C'est donc dans ce domaine que je souhaite m'orienter. 
-            <br></br> Venant de conclure un contrat d'alternance pour une durée de 19 mois (02/23 -> 08/24) avec la société Lenrek Informatique en 
-            développement Java/SQL, je suis actuellement en licence informatique (3e année) à la Faculté des Sciences Jean Perrin.
+            de l'Industrie et du Developpement Durable spécialité Systèmes d'Informations et Numériques (Mention très bien)
+            puis d'un Bachelor Universitaire de Technologie spécialité Informatique - Développement application/web, 
+            j'ai la conviction de pouvoir répondre à vos attentes. 
+            <br></br> Ayant conclut un contrat d'alternance pour une durée de 19 mois (02/23 -> 08/24) avec la société Lenrek Informatique en 
+            développement Java/SQL, puis un stage de 8 semaines dans une auto-entreprise pour un projet d'application 
+            full-stack React Native/AdonisJS/PostgreSQL Dockerisée (projet réalisé from scratch), 
+            je suis actuellement en Master informatique - spécialité Ingénieurie Logicielle pour l'Internet (ILI)
+            à la Faculté des Sciences Jean Perrin.
           </p>
           <div className="flex justify-center">
             <a

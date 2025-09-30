@@ -12,7 +12,7 @@ export default function Projets() {
             Projets
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Voici la liste des projets sur lesquels il m'a été donné l'occasion de travailler.
+            Voici la liste des projets sur lesquels j'ai eu l'occasion de travailler.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
